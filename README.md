@@ -1,1 +1,1 @@
-add imsges
+add imsges for hotel interior
